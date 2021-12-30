@@ -26,7 +26,7 @@ print("Exponentiation of a given number:",expo())
 ```
 
 ## Output:
-![exponentiation of a number](./expo.png)
+![exponentiation of a number](./outputexpo.png)
 
 
 ## Result:
